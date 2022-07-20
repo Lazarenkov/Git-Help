@@ -1,25 +1,32 @@
 > # Оглавление
 > ### 1.**[Соглашение о коммитах](#Соглашение-о-коммитах)**
 > ---
-> ## **Консольные команды Git**
-> ### Управление репозиторием
+> ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Git-logo-black.svg/800px-Git-logo-black.svg.png =80x)
+> ## **Консольные команды Git** 
+> ### Управление репозиторием ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Octicons-repo.svg/576px-Octicons-repo.svg.png =16x)
 > 1. [Удаление  репозитория](#Удаление-репозитория)
 > 2. [Работа с remote-репозиторием](#Работа-с-remote-репозиторием)
 > 3. [Инфо о репозитории](#Инфо-о-репозитории)
-> ### Работа с ветками
+> ### Работа с ветками ![Alt text](https://cdn.icon-icons.com/icons2/3266/PNG/512/git_branch_icon_207318.png =25x) 
 > 1. [Управление ветками](#Управление-ветками)
 > 2. [Слияние веток](#Слияние-веток)
 > 3. [Удаленные (remote) ветки](#Удаленные-(remote)-ветки)
-> ### Тэги ![Alt text](https://drive.google.com/file/d/18VzXZVbDEhER5T8M4HaRtEz3N3Y9s9Gc/view?usp=sharing)
+> ### Тэги ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/VisualEditor_-_Icon_-_Tag.svg/768px-VisualEditor_-_Icon_-_Tag.svg.png =30x)
+
+> 
 > 1. [Добавление](#Добавление)
 > 2. [Удаление](#Удаление)
-> ### Работа с историей
+> ### Работа с историей ![Alt text](https://avatars.mds.yandex.net/get-zen-logos/1526540/pub_628128a6c537e1099f8e3f8b_62812a72ed0a9814cf9fa13c/xxh =25x)
+
+
+
 > 1. [Работа с историей](#Работа-с-историей1)
 > ### Коммиты
-> 1. [Коммиты](#Коммиты)
+> 1. [Коммиты](#Коммиты) ![Alt text](https://cdn.icon-icons.com/icons2/2714/PNG/512/git_commit_thin_icon_171749.png =30x)
 > 
 ---
-# Консольные команды Git
+# Консольные команды Git 
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Git-logo-black.svg/800px-Git-logo-black.svg.png =150x)
 ## Управление репозиторием
 ### Удаление  репозитория
 * **-rm -rf .git** -  удалить текущий репозиторий
