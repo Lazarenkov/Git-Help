@@ -3,7 +3,7 @@
 > ---
 > ![Alt text](img/Git-logo.svg)
 > ## **Консольные команды Git** 
-> ### Управление репозиторием ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Octicons-repo.svg/576px-Octicons-repo.svg.png =16x)
+> ### Управление репозиторием ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Octicons-repo.svg/576px-Octicons-repo.svg.png)
 > 1. [Удаление  репозитория](#Удаление-репозитория)
 > 2. [Работа с remote-репозиторием](#Работа-с-remote-репозиторием)
 > 3. [Инфо о репозитории](#Инфо-о-репозитории)
