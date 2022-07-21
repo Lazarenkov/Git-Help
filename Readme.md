@@ -1,7 +1,7 @@
 > # Оглавление
 > ### 1.**[Соглашение о коммитах](#Соглашение-о-коммитах)**
 > ---
-> ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Git-logo-black.svg/800px-Git-logo-black.svg.png =80x)
+> ![Alt text](./Git-logo.svg =80x)
 > ## **Консольные команды Git** 
 > ### Управление репозиторием ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Octicons-repo.svg/576px-Octicons-repo.svg.png =16x)
 > 1. [Удаление  репозитория](#Удаление-репозитория)
