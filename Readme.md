@@ -113,6 +113,7 @@
 ## Коммиты
 * `git add index.html` - добавить фаил *index.html* в staging area
 * `git add` - добавить все фаилы в staging area
+* `git reset` - отменить последний git add
 * `git add *.js` - добавить все фаилы c расширением .js в staging area
 * `git commit` - коммит без сообщения, будет работать только если в staging area есть изменения через git add
 > крайне не желательно коммитить без добавления сообщения через флаг -m
